@@ -2,7 +2,8 @@
 
 🌱 I’m currently learning **coding, AI & technology**  
 💻 I love working with **Python, Jupyter, and GitHub**  
-📫 Reach me at: **cybercoretechofficial@gmail.com**  
+📫 Reach me at: [cybercoretechofficial@gmail.com](mailto:cybercoretechofficial@gmail.com)  
+💬 Connect with me on Discord: [cybercoretechofficial](https://discord.com/users/cybercoretechofficial)  
 
 ---
 
@@ -40,7 +41,7 @@
 - Git & GitHub  
 - Docker & Kubernetes 🐳  
 - Linux / Shell scripting  
-- Cloud (AWS, GCP, Azure .etc)  
+- Cloud (AWS, GCP, Azure)  
 - AI & Machine Learning basics 🤖  
 
 ---
