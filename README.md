@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm CyberCoreTechOfficial  
 
-<!--
-**cybercoretechofficial/cybercoretechofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **coding, AI & technology**  
+💻 I love working with **Python, Jupyter, and GitHub**  
+📫 Reach me at: **cybercoretechofficial@gmail.com**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+
+**Programming Languages**
+- Python 🐍  
+- Java ☕  
+- C / C++ ⚡  
+- JavaScript (Node.js, React) 🌐  
+- TypeScript  
+- PHP  
+- Ruby 💎  
+- Go (Golang)  
+- Rust 🦀  
+- Swift 🍎  
+- Kotlin 🤖  
+- Dart (Flutter)  
+- SQL & NoSQL Databases 🗄️  
+
+**Web Development**
+- HTML5, CSS3  
+- JavaScript (Frontend + Backend)  
+- React, Angular, Vue  
+- Node.js, Express  
+- PHP, Laravel  
+
+**Mobile Development**
+- Android (Java / Kotlin)  
+- iOS (Swift)  
+- Flutter (Dart)  
+- React Native  
+
+**Other Tools & Tech**
+- Git & GitHub  
+- Docker & Kubernetes 🐳  
+- Linux / Shell scripting  
+- Cloud (AWS, GCP, Azure)  
+- AI & Machine Learning basics 🤖  
+
+---
+
+⭐ From [CyberCoreTechOfficial](https://github.com/cybercoretechofficial)
