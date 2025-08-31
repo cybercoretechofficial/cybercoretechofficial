@@ -42,7 +42,7 @@
 - Docker & Kubernetes 🐳  
 - Linux / Shell scripting  
 - Cloud (AWS, GCP, Azure)  
-- AI & Machine Learning basics 🤖  
+- AI & Machine Learning 🤖  
 
 ---
 
