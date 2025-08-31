@@ -40,7 +40,7 @@
 - Git & GitHub  
 - Docker & Kubernetes 🐳  
 - Linux / Shell scripting  
-- Cloud (AWS, GCP, Azure)  
+- Cloud (AWS, GCP, Azure .etc)  
 - AI & Machine Learning basics 🤖  
 
 ---
