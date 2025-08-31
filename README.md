@@ -1,7 +1,7 @@
 # 👋 Hi, I'm CyberCoreTechOfficial  
 
 🌱 I’m currently learning **coding, AI & technology**  
-💻 I love working with **Python, Jupyter, and GitHub**  
+💻 I love working with **Python, and GitHub**  
 📫 Reach me at: [cybercoretechofficial@gmail.com](mailto:cybercoretechofficial@gmail.com)  
 💬 Connect with me on Discord: [cybercoretechofficial](https://discord.com/users/cybercoretechofficial)  
 
